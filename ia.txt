@@ -1,0 +1,2 @@
+chat gpt para poner imagenes en sql
+cursor para corregir
